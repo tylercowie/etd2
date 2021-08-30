@@ -50,6 +50,11 @@ init =
         , description = "no giving up allowed."
         , done = False                  
         }
+            ,   { id = "2 - finish"
+        , title = "Finish My Front-End Dev Career"
+        , description = "no up allowed."
+        , done = False                  
+        }
     ], addingTodo = False, todoToAdd = emptyTodo }, Cmd.none )
 
 
